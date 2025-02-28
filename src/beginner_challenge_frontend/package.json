@@ -27,7 +27,7 @@
     "prettier": "latest",
     "sass": "latest",
     "typescript": "latest",
-    "vite": "latest",
+    "vite": "^6.2.0",
     "vite-plugin-environment": "latest"
   }
 }
